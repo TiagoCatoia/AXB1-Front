@@ -3,7 +3,7 @@ export const content = [
   "./src/index.css",
   "./src/App.jsx",
   "./index.html",
-  "./src/**/*.{js,jsx,ts,tsx}",
+  "./src/**/*.{js,jsx,html}",
 ];
 export const theme = {
   extend: {},
